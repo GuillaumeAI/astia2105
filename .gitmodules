@@ -7,3 +7,6 @@
 [submodule "etch"]
 	path = etch
 	url = git@github.com:GuillaumeAI/x__etch-a-sketch__210224.git
+[submodule "gia-ast"]
+	path = gia-ast
+	url = git@github.com:jgwill/gia-ast.git
