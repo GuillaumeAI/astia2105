@@ -1,3 +1,9 @@
 [submodule "svr"]
 	path = svr
 	url = git@github.com:GuillaumeAI/rwml__adaptive_style_transfer.git
+[submodule "ticli"]
+	path = ticli
+	url = git@github.com:GuillaumeIsabelleX/gix-adaptive-style-transfer.git
+[submodule "etch"]
+	path = etch
+	url = git@github.com:GuillaumeAI/x__etch-a-sketch__210224.git
