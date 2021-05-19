@@ -1,0 +1,3 @@
+[submodule "svr"]
+	path = svr
+	url = git@github.com:GuillaumeAI/rwml__adaptive_style_transfer.git
